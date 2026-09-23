@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/*
+/Tests.ipynb
+/VectorsExtraction.ipynb
+/wsd/error_analysis.xlsx
+/wsd/results_analysis.tsv
